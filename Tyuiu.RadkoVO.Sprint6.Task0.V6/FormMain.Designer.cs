@@ -105,7 +105,7 @@
             buttonHelp_RVO.Name = "buttonHelp_RVO";
             buttonHelp_RVO.Size = new Size(112, 34);
             buttonHelp_RVO.TabIndex = 2;
-            buttonHelp_RVO.Text = "button2";
+            buttonHelp_RVO.Text = "help";
             buttonHelp_RVO.UseVisualStyleBackColor = true;
             buttonHelp_RVO.Click += buttonHelp_RVO_Click;
             // 
@@ -115,7 +115,7 @@
             buttonCalc_RVO.Name = "buttonCalc_RVO";
             buttonCalc_RVO.Size = new Size(112, 34);
             buttonCalc_RVO.TabIndex = 1;
-            buttonCalc_RVO.Text = "button1";
+            buttonCalc_RVO.Text = "clac";
             buttonCalc_RVO.UseVisualStyleBackColor = true;
             buttonCalc_RVO.Click += buttonCalc_RVO_Click;
             // 
